@@ -2,7 +2,6 @@
 
 To properly launch DOS games from GOG.com and other places with Heroic Games Launcher
 
-
 **FAQ:**
 
 Q1- Why do this at all?
@@ -20,8 +19,6 @@ A3- Probably, but you'll need to make your own single.conf file for this.
 Q4- Can I submit files for you to add to the list?
 
 A4- Sure, just post a link in the "Issues" of this Github. Mind you, if someone reports that it's not working, then I'll remove it.
-
-
 
 **How to:**
 
