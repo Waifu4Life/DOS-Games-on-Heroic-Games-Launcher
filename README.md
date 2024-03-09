@@ -2,23 +2,25 @@
 
 To properly launch DOS games from GOG.com and other places with Heroic Games Launcher
 
+
 **FAQ:**
 
 Q1- Why do this at all?
 
-A1- Beacuse while WINE is not an emulator, there's still a layer of compatilbity needed to run it. DOSBox itself is an emulator and the one that comes with GOG games is the Windows version. Add these two things and you get staudering on these old games sometimes. Using a native Linux DOSBox removes these issues.
+A1- Because while WINE is not an emulator, there's still a layer of compatibility needed to run it. DOSBox itself is an emulator and the one that comes with GOG games is the Windows version. Add these two things and you get staudering on these old games sometimes. Using a native Linux DOSBox removes these issues.
 
 Q2- Some of these games can be played online, can I still do this?
 
-A2- Probably, but you'll need to make your own singgle.conf file for this.
+A2- Probably, but you'll need to make your own single.conf file for this.
 
 Q3- Can you make files for me that are not listed?
 
 A3- No, I only did the ones for the games I have, but feel free to use one of mine as a template to make your own.
 
-Q4- Can I submit files for your to add to the list?
+Q4- Can I submit files for you to add to the list?
 
-A4- Sure, just post a link in "Issues". Mind you, if someone reports that it's not working, then I'll remove it.
+A4- Sure, just post a link in the "Issues" of this Github. Mind you, if someone reports that it's not working, then I'll remove it.
+
 
 **How to:**
 
