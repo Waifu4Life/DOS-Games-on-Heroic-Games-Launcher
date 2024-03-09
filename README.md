@@ -22,6 +22,7 @@ Q4- Can I submit files for you to add to the list?
 A4- Sure, just post a link in the "Issues" of this Github. Mind you, if someone reports that it's not working, then I'll remove it.
 
 
+
 **How to:**
 
 Step 1- Install a non-flatpak/non-appimage version of Heroic Games Launcher (https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases)
