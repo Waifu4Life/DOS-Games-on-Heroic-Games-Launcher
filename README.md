@@ -7,7 +7,7 @@ To properly launch DOS games from GOG.com and other places with Heroic Games Lau
 
 Q1- Why do this at all?
 
-A1- Because while WINE is not an emulator, there's still a layer of compatibility needed to run it. DOSBox itself is an emulator and the one that comes with GOG games is the Windows version. Add these two things and you get staudering on these old games sometimes. Using a native Linux DOSBox removes these issues.
+A1- Because while WINE is not an emulator, there's still a layer of compatibility needed to run it. DOSBox itself is an emulator and the one that comes with GOG games is the Windows version. Add these two things and you get staudering in these old games sometimes. Using a native Linux DOSBox removes these issues.
 
 Q2- Some of these games can be played online, can I still do this?
 
