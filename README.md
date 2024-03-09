@@ -28,7 +28,7 @@ Step 2- Install a non-flatpak/non-appimage of DOSBox Staging (https://dosbox-sta
 
 Step 3- If you have DOS GOG games, install them using Heroic Games Launcher then hide them (if they're not GOG games, skip to the next step)
 
-Step 4- Rename your DOS game folders 8 characters or less (I was not able to make this work otherwise)
+Step 4- Rename your DOS game folders to 8 characters or less (I was not able to make this work otherwise)
 
 Step 5- Download the zip files from the "Releases" section that you need and unzip the config files into your appropriate game folders (if you want to keep the originals, then back them up first)
 
