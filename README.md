@@ -16,7 +16,7 @@ Step 6- Using a text editor, edit every "single.conf" file and replace every "fu
 
 Step 7- In Heroic Games Launcher, click on "ADD GAME", type the name of you game, choose "Windows" for the platform and put this in "Select Executable": **/usr/bin/dosbox** , click "Finish"
 
-Step 8- Right click on the new game entry and choose "Settings" and click on the "Advance" tab
+Step 8- Right click on the new game entry and choose "Settings" and click on the "Advanced" tab
 
 Step 9- In "Game Arguments" enter the following **-conf /full path to your game/game_name.conf -conf /full path to your game/game_name_single.conf -noconsole -c exit**
 
