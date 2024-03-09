@@ -40,4 +40,4 @@ Step 8- Right click on the new game entry and choose "Settings" and click on the
 
 Step 9- In "Game Arguments" enter the following **-conf /full path to your game/game_name.conf -conf /full path to your game/game_name_single.conf -noconsole -c exit**
 
-Step 10- Replace "full path to your game" for the actual path to your game and "game_name.conf" for the name of the Config file of your game and "game_name_single.conf" for the name of the Single Config file of your game
+Step 10- Replace "full path to your game" for the actual path to your game, "game_name.conf" for the name of the Config file of your game and "game_name_single.conf" for the name of the Single Config file of your game
