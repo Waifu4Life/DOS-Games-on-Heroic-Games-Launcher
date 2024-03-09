@@ -9,13 +9,13 @@ Q1- Why do this at all?
 
 A1- Because while WINE is not an emulator, there's still a layer of compatibility needed to run it. DOSBox itself is an emulator and the one that comes with GOG games is the Windows version. Add these two things and you get staudering in these old games sometimes. Using a native Linux DOSBox removes these issues.
 
-Q2- Some of these games can be played online, can I still do this?
+Q2- Can you make files for me that are not listed?
 
-A2- Probably, but you'll need to make your own single.conf file for this.
+A2- No, I only did the ones for the games that I have, but feel free to use one of mine as a template to make your own.
 
-Q3- Can you make files for me that are not listed?
+Q3- Some of these games can be played online, can I still do this?
 
-A3- No, I only did the ones for the games I have, but feel free to use one of mine as a template to make your own.
+A3- Probably, but you'll need to make your own single.conf file for this.
 
 Q4- Can I submit files for you to add to the list?
 
