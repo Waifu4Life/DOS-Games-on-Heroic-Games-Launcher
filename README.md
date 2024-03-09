@@ -12,7 +12,7 @@ Step 4- Rename your DOS game folders 8 characters or less (I was not able to mak
 
 Step 5- Download the zip files from the "Releases" section that you need and unzip the config files into your appropriate game folders
 
-Step 6- 
+Step 6- Using a text editor, edit every "single.conf" file and replace every "full path to your game" for the actual path to your game
 
 Step 7- In Heroic Games Launcher, click on "ADD GAME", type the name of you game, choose "Windows" for the platform and put this in "Select Executable": **/usr/bin/dosbox** , click "Finish"
 
